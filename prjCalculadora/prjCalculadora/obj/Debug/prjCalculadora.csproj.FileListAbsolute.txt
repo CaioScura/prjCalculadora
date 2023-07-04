@@ -1,0 +1,9 @@
+D:\2020\2J\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.csprojResolveAssemblyReference.cache
+D:\2020\2J\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.FormCalculadora.resources
+D:\2020\2J\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.Properties.Resources.resources
+D:\2020\2J\prjCalculadora\prjCalculadora\obj\Debug\prjCalculadora.csproj.GenerateResource.Cache
+D:\2020\2J\prjCalculadora\prjCalculadora\bin\Debug\calculadora.exe.config
+D:\2020\2J\prjCalculadora\prjCalculadora\bin\Debug\calculadora.exe
+D:\2020\2J\prjCalculadora\prjCalculadora\bin\Debug\calculadora.pdb
+D:\2020\2J\prjCalculadora\prjCalculadora\obj\Debug\calculadora.exe
+D:\2020\2J\prjCalculadora\prjCalculadora\obj\Debug\calculadora.pdb
